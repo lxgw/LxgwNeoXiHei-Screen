@@ -1,3 +1,16 @@
+> [!IMPORTANT]
+> 本仓库为附属项目，**现已归档（只读），不再跟随主项目更新**。
+>
+> 主项目仍会不定期进行必要维护，但本仓库将不再同步这些更新。如后续因品牌策略调整需对字体进行更名，本仓库届时可能视情况重启。
+>
+> 如需获取带有最新字符或修复的版本，请直接使用主项目：
+> - [霞鹜新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
+> - [霞鹜新致宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong)
+>
+> 历史版本仍可在此仓库的 Releases 中下载。感谢您一直以来的支持！
+>
+> 本项目衍生自 IPA 字体，遵循 IPA Font License 1.0。若计划将本项目字体用于嵌入式用途，请务必仔细阅读 [IPA Font License 1.0](https://moji.or.jp/ipafont/license/) 条款，并参考[「嵌入须知」](https://github.com/lxgw/lxgw/blob/main/documents/xizhi_embedding_instructions.md)自行评估合规成本。
+
 # 霞鹜新晰黑＆霞鹜新致宋 屏幕阅读版</br> LXGW Neo XiHei Screen & LXGW Neo ZhiSong Screen
 
 「霞鹜新晰黑」「霞鹜新致宋」屏幕阅读版本。
